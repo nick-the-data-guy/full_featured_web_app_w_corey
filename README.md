@@ -14,3 +14,6 @@ https://www.youtube.com/watch?v=cYWiDiIUxQc
 
 Python Flask Tutorial: Full-Featured Web App Part 5 - Package Structure
 https://www.youtube.com/watch?v=44PvX0Yv368
+
+Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication
+https://www.youtube.com/watch?v=CSHx6eCkmv0

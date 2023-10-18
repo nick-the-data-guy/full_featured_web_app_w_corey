@@ -1,7 +1,7 @@
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
-
-
+from flask_bcrypt import Bcrypt
+from flask_login import LoginManager
 
 
 
@@ -21,7 +21,10 @@ app.config['SECRET_KEY'] = 'ef931caa57f5dcc01a77ba311507ade0'
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///site.db'
 
 db=SQLAlchemy(app)
-
+bcrypt=Bcrypt(app)
+login_manager = LoginManager(app)
+login_manager.login_view = 'login'
+login_manager.login_message_category = 'info'
 
 
 # This line I needed to add to make the db.Create_all() command work.

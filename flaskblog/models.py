@@ -1,11 +1,15 @@
 from datetime import datetime
-from flaskblog import db
+from flaskblog import db, login_manager
+from flask_login import UserMixin
 
+@login_manager.user_loader
+def load_user(user_id):
+	return User.query.get(int(user_id))
 
 # A sqlalchemy class is the same as a table in a normal relational database.
 # These are also known as models.
 
-class User(db.Model):
+class User(db.Model, UserMixin):
 	id = db.Column(db.Integer, primary_key = True)
 	username = db.Column(db.String(20), unique=True, nullable=False)
 	email = db.Column(db.String(120), unique=True, nullable=False)
@@ -29,5 +33,5 @@ class Post(db.Model):
 	user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
 
 	def __repr__(self):
-		return f"Post('{self.title}',{self.date_posted}')"
+		return f"Post('{self.title}','{self.date_posted}')"
 
