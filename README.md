@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=44PvX0Yv368
 
 Python Flask Tutorial: Full-Featured Web App Part 6 - User Authentication
 https://www.youtube.com/watch?v=CSHx6eCkmv0
+
+Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture
+https://www.youtube.com/watch?v=803Ei2Sq-Zs
