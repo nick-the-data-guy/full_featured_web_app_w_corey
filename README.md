@@ -20,3 +20,9 @@ https://www.youtube.com/watch?v=CSHx6eCkmv0
 
 Python Flask Tutorial: Full-Featured Web App Part 7 - User Account and Profile Picture
 https://www.youtube.com/watch?v=803Ei2Sq-Zs
+
+Python Flask Tutorial: Full-Featured Web App Part 8 - Create, Update, and Delete Posts
+https://www.youtube.com/watch?v=u0oDDZrDz9U
+
+Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination
+https://www.youtube.com/watch?v=PSWf2TjTGNY
