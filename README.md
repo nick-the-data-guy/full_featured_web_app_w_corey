@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=u0oDDZrDz9U
 
 Python Flask Tutorial: Full-Featured Web App Part 9 - Pagination
 https://www.youtube.com/watch?v=PSWf2TjTGNY
+
+Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset
+https://www.youtube.com/watch?v=vutyTx7IaAI
