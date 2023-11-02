@@ -29,3 +29,6 @@ https://www.youtube.com/watch?v=PSWf2TjTGNY
 
 Python Flask Tutorial: Full-Featured Web App Part 10 - Email and Password Reset
 https://www.youtube.com/watch?v=vutyTx7IaAI
+
+Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration
+https://www.youtube.com/watch?v=Wfx4YBzg16s
