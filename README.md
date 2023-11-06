@@ -32,3 +32,6 @@ https://www.youtube.com/watch?v=vutyTx7IaAI
 
 Python Flask Tutorial: Full-Featured Web App Part 11 - Blueprints and Configuration
 https://www.youtube.com/watch?v=Wfx4YBzg16s
+
+Python Flask Tutorial: Full-Featured Web App Part 12 - Custom Error Pages
+https://www.youtube.com/watch?v=uVNfQDohYNI
